@@ -1,4 +1,4 @@
-# -Advanced-Software-Engineering-Virtual-Experience-Walmart
+# Advanced-Software-Engineering-Virtual-Experience-Walmart
 Task1:
 Task is to implement a novel data structure - your project lead is calling it a power of two max heap. The rest of your team is doing their best to come up with a better name. The requirements of the data structure are as follows:
 
